@@ -1,0 +1,42 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Fred Mednick">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10622</md:content-id>
+    <md:title>Mentorship for Teacher Leaders</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>46736819-ec51-426c-ad84-1379a8eb7453</md:uuid>
+<md:slug>mentorship-for-teacher-leaders</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Elearning for Mentors</md:title>
+      <col:content>
+        <col:module document="m15069"/>
+        <col:module document="m14133"/>
+        <col:module document="m14977"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Mentorship and Leadership Practices</md:title>
+      <col:content>
+        <col:module document="m17184"/>
+        <col:module document="m18056"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Role of the Principal</md:title>
+      <col:content>
+        <col:module document="m12743"/>
+        <col:module document="m12868"/>
+        <col:module document="m12924"/>
+        <col:module document="m18260"/>
+        <col:module document="m13690"/>
+        <col:module document="m13691"/>
+        <col:module document="m16930"/>
+        <col:module document="m19029"/>
+        <col:module document="m14546"/>
+        <col:module document="m13677"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
